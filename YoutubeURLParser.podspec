@@ -72,8 +72,7 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = "10.7"
 
 
-  # ――― 
-Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
+  # ――― Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
